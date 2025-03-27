@@ -1,6 +1,6 @@
 # Err-Prop-Usr-Misinfo
 
-This is the official implementation for error propagation of user misinformation in LLM reasoning.
+This is the official implementation for err-prop-usr-misinfo.
 
 We develop a pipeline to systematically evaluate the impact of user misinformation on LLM reasoning, analyzing correction behaviors and their effectiveness. 
 
