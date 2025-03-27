@@ -1,4 +1,4 @@
-# Unraveling Error Propagation of User Misinformation in LLM Reasoning
+# Err-Prop-Usr-Misinfo
 
 This is the official implementation for error propagation of user misinformation in LLM reasoning.
 
