@@ -28,7 +28,7 @@ In this project, we need to use [OpenAI API](https://platform.openai.com/docs/ov
     "openai_api_key": "...",
     "togetherai_api_key": "...",
     "huggingface_api_key": "...",
-    "gpt-4o-mini-sft": "...
+    "gpt-4o-mini-sft": "..."
 }
 ```
 
