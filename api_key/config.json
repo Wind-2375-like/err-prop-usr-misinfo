@@ -1,0 +1,6 @@
+{
+    "openai_api_key": "...",
+    "togetherai_api_key": "...",
+    "huggingface_api_key": "...",
+    "gpt-4o-mini-sft": "..."
+}
